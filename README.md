@@ -1,27 +1,23 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Bhide</h1>
 <h3 align="center">A Full-Stack Developer building AI-driven and SaaS applications</h3>
 
-- 🚀 I build **modern web applications, SaaS platforms, and AI-powered tools**
-- 🌱 Currently mastering **React.js, Next.js, Tailwind CSS, and FastAPI**
-- 🛠️ Experienced in **frontend, backend, APIs, and scalable web solutions**
-- 🌐 Check out my portfolio: [aniruddhaportfolio.vercel.app](https://aniruddhaportfolio.vercel.app/)
-- 🎓 Pursuing BCA at **Chanakya University, Bangalore, IN**  
+---
+
+### About Me
+
+- 👨‍💻 I build **modern web applications, SaaS platforms, and AI-powered tools**.
+- 🧠 Currently, I'm diving deep into **Agentic AI**, focusing on building autonomous systems that can reason, plan, and execute multi-step tasks to solve real-world problems.
+- 🎓 Pursuing BCA at **Chanakya University, Bangalore, IN**  
   [https://chanakyauniversity.edu.in/](https://chanakyauniversity.edu.in/)
-- 📫 Reach me at **kryptogrammer101@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_aniruddha_bhide" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aniruddha_bhide" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/aniruddha-bhide" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40"/>
-</a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### Skills and Tech Stack
+
+- **Mastering:** React.js, Next.js, Tailwind CSS, and FastAPI
+- **Experienced in:** Frontend, backend, APIs, and scalable web solutions
+
 <p align="left">
-  <!-- Previous Skills -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -50,7 +46,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
-  <!-- New Skills -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -69,4 +64,20 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+### Connect with me
+
+- 🌐 Portfolio: [aniruddhaportfolio.vercel.app](https://aniruddhaportfolio.vercel.app/)
+- 📫 Email: **kryptogrammer101@gmail.com**
+
+<p align="left">
+<a href="https://instagram.com/_aniruddha_bhide" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aniruddha_bhide" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/aniruddha-bhide" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40"/>
+</a>
 </p>
