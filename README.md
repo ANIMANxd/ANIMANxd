@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E3FF&center=true&vCenter=true&width=600&height=50&lines=Building+Agentic+AI+Systems;Architecting+Scalable+SaaS;Next.js+%26+FastAPI+Specialist)](https://git.io/typing-svg)
 
 <a href="https://xdaniman.dev"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-00E3FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"></a>
-<a href="linkedin.com/in/aniruddha-bhide0704/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/aniruddha-bhide0704/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:kryptogrammer101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
